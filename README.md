@@ -1,4 +1,4 @@
-### Hi there 👋
+Information about me ...
 
 <!--
 **Elspeth-57/Elspeth-57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
